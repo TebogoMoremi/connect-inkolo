@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.angular/
+.env
+.npmrc
+coverage/
+*.log
+backend/uploads/
+backend/data/*.json
+work/
+outputs/
